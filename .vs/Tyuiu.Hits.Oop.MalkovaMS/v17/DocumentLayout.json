@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Programming\\Repositories\\Tyuiu.Hits.Oop.MalkovaMS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Programming\\Repositories\\Tyuiu.Hits.Oop.MalkovaMS\\Sprint2\\Task0.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Sprint2\\Task0.ipynb||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Task0.ipynb",
+              "DocumentMoniker": "D:\\Programming\\Repositories\\Tyuiu.Hits.Oop.MalkovaMS\\Sprint2\\Task0.ipynb",
+              "RelativeDocumentMoniker": "Sprint2\\Task0.ipynb",
+              "ToolTip": "D:\\Programming\\Repositories\\Tyuiu.Hits.Oop.MalkovaMS\\Sprint2\\Task0.ipynb",
+              "RelativeToolTip": "Sprint2\\Task0.ipynb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-10-05T15:57:01.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
